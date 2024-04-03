@@ -17,7 +17,7 @@ Echo .
 Echo .
 Echo Voce esta utilizando um SSD como Armazenamento?
 Echo. ---------------------------
-Echo Abaixo nome, se estiver "Fixed hard disk media" se trata de um HDD (Usar opcao 1, se nao quiser desfragmentar use opcao 2), ja se estiver, "Solid state media" é um SSD, use opcao 2 pois não pode desfragmentar em SSD (Queima os ciclos):
+Echo Abaixo nome, se estiver "Fixed hard disk media" se trata de um HDD (Usar opcao 2, se nao quiser desfragmentar use opcao 1), ja se estiver, "Solid state media" é um SSD, use opcao 1 pois não pode desfragmentar em SSD (Queima os ciclos):
 Echo .
 Echo .
 wmic diskdrive get mediatype
